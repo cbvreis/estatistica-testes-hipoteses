@@ -10,7 +10,10 @@ Nesse notebook estamos abordando os principais testes de normalidade e testes de
 - Chi-Square
 - Teste de Hipóteses
     - Bootstraping
-
+- Wilcoxon Signed-Rank Test
+- Test T
+- Test T Paried
+- Binomial
 
 </br>
 
